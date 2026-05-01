@@ -1,0 +1,35 @@
+; XAUUSD Smart Money EA - Default Settings for MT5 Strategy Tester
+; PUPrime Broker Configuration
+
+[Common]
+Symbol=XAUUSD
+Period=M5
+Language=en
+Optimization=false
+
+[Inputs]
+RiskPercent=1.0
+MaxSpread=50
+ATR_Multiplier=1.5
+RR_Ratio=2.0
+ATR_Period=14
+
+UseSessionFilter=true
+SessionStartHour=7
+SessionEndHour=20
+
+EMA200_Period=200
+EMA50_Period=50
+HTF_Period=15
+LTF_Period=5
+LiquidityLookback=20
+
+UseBreakEven=true
+BreakEvenAtRR=1.0
+UseTrailingStop=false
+TrailTriggerRR=2.0
+TrailDistance=0.5
+
+RequireRejection=true
+MinWickBodyRatio=1.5
+CloseOnOpposite=true

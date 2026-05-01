@@ -1,0 +1,19 @@
+{
+  "campaign_id": "861ad361",
+  "lead_id": "573981bd-f9ac-4f2f-a0c8-ef145017a1c5",
+  "company": "Aston Chase",
+  "email": "info@astonchase.com",
+  "subject": "Quick question about Aston Chase",
+  "trigger_used": "liking",
+  "status": "ready",
+  "created_at": "2026-04-27T22:10:46.857580",
+  "sent_day1": true,
+  "sent_day3": true,
+  "sent_day7": false,
+  "sent_day14": false,
+  "replied": false,
+  "bounced": false,
+  "sent_day1_at": "2026-04-27T22:23:23.030839",
+  "last_sent": "day3",
+  "sent_day3_at": "2026-05-01T07:07:05.531641"
+}

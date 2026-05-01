@@ -1,0 +1,19 @@
+{
+  "campaign_id": "2bafe0f9",
+  "lead_id": "c151f6fc-fbf9-48c7-8cc2-22e64ba13313",
+  "company": "Foxtons London Bridge",
+  "email": "londonbridge@foxtons.co.uk",
+  "subject": "Quick question about Foxtons London Bridge",
+  "trigger_used": "liking",
+  "status": "ready",
+  "created_at": "2026-04-27T22:10:46.860586",
+  "sent_day1": true,
+  "sent_day3": true,
+  "sent_day7": false,
+  "sent_day14": false,
+  "replied": false,
+  "bounced": false,
+  "sent_day1_at": "2026-04-27T22:22:19.038931",
+  "last_sent": "day3",
+  "sent_day3_at": "2026-05-01T07:08:22.032575"
+}

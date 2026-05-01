@@ -1,0 +1,662 @@
+[
+  {
+    "id": "001",
+    "businessName": "EcoHeat Solutions",
+    "location": "Birmingham, West Midlands",
+    "website": "https://www.ecoboilergrants.uk",
+    "specialisation": "Boiler & Heating Installation",
+    "employees": "11-25",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.289893",
+        "channel": "whatsapp",
+        "preview": "Hi EcoHeat \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help hea..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.293555",
+        "channel": "whatsapp",
+        "preview": "Hi EcoHeat \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. ..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.740161",
+        "channel": "whatsapp",
+        "preview": "Hi EcoHeat \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a ..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "high",
+    "lastContacted": "2026-04-25T14:06:03.740151"
+  },
+  {
+    "id": "002",
+    "businessName": "Aston Heating Services",
+    "location": "Birmingham, West Midlands",
+    "website": "https://www.astonplumbingandheating.co.uk",
+    "specialisation": "Commercial & Residential Heating",
+    "employees": "11-25",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291118",
+        "channel": "whatsapp",
+        "preview": "Hi Aston \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help heati..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.294498",
+        "channel": "whatsapp",
+        "preview": "Hi Aston \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. We..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.740383",
+        "channel": "whatsapp",
+        "preview": "Hi Aston \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a lo..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "high",
+    "lastContacted": "2026-04-25T14:06:03.740380"
+  },
+  {
+    "id": "003",
+    "businessName": "Wright Plumbing & Heating",
+    "location": "Wolverhampton, West Midlands",
+    "website": null,
+    "specialisation": "General Plumbing & Heating",
+    "employees": "5-10",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291268",
+        "channel": "whatsapp",
+        "preview": "Hi Wright \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help heat..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.294626",
+        "channel": "whatsapp",
+        "preview": "Hi Wright \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. W..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.740441",
+        "channel": "whatsapp",
+        "preview": "Hi Wright \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a l..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "medium",
+    "lastContacted": "2026-04-25T14:06:03.740439"
+  },
+  {
+    "id": "004",
+    "businessName": "Central Gas Services",
+    "location": "Coventry, West Midlands",
+    "website": null,
+    "specialisation": "Gas Safety & Boiler Services",
+    "employees": "11-25",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291329",
+        "channel": "whatsapp",
+        "preview": "Hi Central \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help hea..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.294696",
+        "channel": "whatsapp",
+        "preview": "Hi Central \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. ..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.740600",
+        "channel": "whatsapp",
+        "preview": "Hi Central \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a ..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "high",
+    "lastContacted": "2026-04-25T14:06:03.740598"
+  },
+  {
+    "id": "005",
+    "businessName": "M and J Plumbing and Heating",
+    "location": "Willenhall, West Midlands",
+    "website": null,
+    "specialisation": "Emergency Plumbing & Heating",
+    "employees": "5-10",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291397",
+        "channel": "whatsapp",
+        "preview": "Hi M \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help heating a..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.294763",
+        "channel": "whatsapp",
+        "preview": "Hi M \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. We rec..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.740653",
+        "channel": "whatsapp",
+        "preview": "Hi M \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a local ..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "medium",
+    "lastContacted": "2026-04-25T14:06:03.740652"
+  },
+  {
+    "id": "006",
+    "businessName": "SAP Plumbing & Heating Engineers",
+    "location": "Birmingham, West Midlands",
+    "website": null,
+    "specialisation": "SAP Engineers & Gas Safety",
+    "employees": "5-10",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291447",
+        "channel": "whatsapp",
+        "preview": "Hi SAP \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help heating..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.294872",
+        "channel": "whatsapp",
+        "preview": "Hi SAP \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. We r..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.740694",
+        "channel": "whatsapp",
+        "preview": "Hi SAP \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a loca..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "medium",
+    "lastContacted": "2026-04-25T14:06:03.740693"
+  },
+  {
+    "id": "007",
+    "businessName": "Rapid Plumbing & Heating",
+    "location": "Wolverhampton, West Midlands",
+    "website": null,
+    "specialisation": "24/7 Emergency Services",
+    "employees": "5-10",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291486",
+        "channel": "whatsapp",
+        "preview": "Hi Rapid \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help heati..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.294952",
+        "channel": "whatsapp",
+        "preview": "Hi Rapid \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. We..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.740751",
+        "channel": "whatsapp",
+        "preview": "Hi Rapid \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a lo..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "high",
+    "lastContacted": "2026-04-25T14:06:03.740750"
+  },
+  {
+    "id": "008",
+    "businessName": "Halo Heating & Plumbing",
+    "location": "Birmingham, West Midlands",
+    "website": null,
+    "specialisation": "Heating System Upgrades",
+    "employees": "5-10",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291548",
+        "channel": "whatsapp",
+        "preview": "Hi Halo \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help heatin..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295014",
+        "channel": "whatsapp",
+        "preview": "Hi Halo \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. We ..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.740813",
+        "channel": "whatsapp",
+        "preview": "Hi Halo \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a loc..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "medium",
+    "lastContacted": "2026-04-25T14:06:03.740811"
+  },
+  {
+    "id": "009",
+    "businessName": "Mercury Gas & Heating",
+    "location": "Sutton Coldfield, West Midlands",
+    "website": null,
+    "specialisation": "Commercial Gas Services",
+    "employees": "11-25",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291611",
+        "channel": "whatsapp",
+        "preview": "Hi Mercury \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help hea..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295067",
+        "channel": "whatsapp",
+        "preview": "Hi Mercury \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. ..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.740851",
+        "channel": "whatsapp",
+        "preview": "Hi Mercury \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a ..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "high",
+    "lastContacted": "2026-04-25T14:06:03.740850"
+  },
+  {
+    "id": "010",
+    "businessName": "Meridian Plumbing & Heating",
+    "location": "Birmingham, West Midlands",
+    "website": null,
+    "specialisation": "Domestic & Commercial",
+    "employees": "5-10",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291718",
+        "channel": "whatsapp",
+        "preview": "Hi Meridian \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help he..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295121",
+        "channel": "whatsapp",
+        "preview": "Hi Meridian \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message...."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.740965",
+        "channel": "whatsapp",
+        "preview": "Hi Meridian \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "medium",
+    "lastContacted": "2026-04-25T14:06:03.740964"
+  },
+  {
+    "id": "011",
+    "businessName": "ProTech Heating Solutions",
+    "location": "Birmingham, West Midlands",
+    "website": null,
+    "specialisation": "Commercial Heating Systems",
+    "employees": "11-25",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291784",
+        "channel": "whatsapp",
+        "preview": "Hi ProTech \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help hea..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295166",
+        "channel": "whatsapp",
+        "preview": "Hi ProTech \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. ..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.741087",
+        "channel": "whatsapp",
+        "preview": "Hi ProTech \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a ..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "high",
+    "lastContacted": "2026-04-25T14:06:03.741085"
+  },
+  {
+    "id": "012",
+    "businessName": "All Trades Birmingham",
+    "location": "Birmingham, West Midlands",
+    "website": null,
+    "specialisation": "Multi-Trade Services",
+    "employees": "11-25",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291851",
+        "channel": "whatsapp",
+        "preview": "Hi All \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help heating..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295249",
+        "channel": "whatsapp",
+        "preview": "Hi All \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. We r..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.741142",
+        "channel": "whatsapp",
+        "preview": "Hi All \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a loca..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "medium",
+    "lastContacted": "2026-04-25T14:06:03.741140"
+  },
+  {
+    "id": "013",
+    "businessName": "HeatWave Plumbing Services",
+    "location": "Birmingham, West Midlands",
+    "website": null,
+    "specialisation": "Heat Pump Installation",
+    "employees": "5-10",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.291975",
+        "channel": "whatsapp",
+        "preview": "Hi HeatWave \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help he..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295298",
+        "channel": "whatsapp",
+        "preview": "Hi HeatWave \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message...."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.741196",
+        "channel": "whatsapp",
+        "preview": "Hi HeatWave \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "medium",
+    "lastContacted": "2026-04-25T14:06:03.741194"
+  },
+  {
+    "id": "014",
+    "businessName": "Dudley Heating Engineers",
+    "location": "Dudley, West Midlands",
+    "website": null,
+    "specialisation": "Heating System Specialists",
+    "employees": "5-10",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.292048",
+        "channel": "whatsapp",
+        "preview": "Hi Dudley \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help heat..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295345",
+        "channel": "whatsapp",
+        "preview": "Hi Dudley \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. W..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.741242",
+        "channel": "whatsapp",
+        "preview": "Hi Dudley \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a l..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "medium",
+    "lastContacted": "2026-04-25T14:06:03.741241"
+  },
+  {
+    "id": "015",
+    "businessName": "First Call Heating & Plumbing",
+    "location": "Solihull, West Midlands",
+    "website": null,
+    "specialisation": "Emergency Response Services",
+    "employees": "11-25",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.292112",
+        "channel": "whatsapp",
+        "preview": "Hi First \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help heati..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295413",
+        "channel": "whatsapp",
+        "preview": "Hi First \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. We..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.741287",
+        "channel": "whatsapp",
+        "preview": "Hi First \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a lo..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "high",
+    "lastContacted": "2026-04-25T14:06:03.741285"
+  },
+  {
+    "id": "016",
+    "businessName": "Midland Gas Experts",
+    "location": "Birmingham, West Midlands",
+    "website": null,
+    "specialisation": "Commercial Gas & Safety",
+    "employees": "11-25",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.292150",
+        "channel": "whatsapp",
+        "preview": "Hi Midland \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help hea..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295476",
+        "channel": "whatsapp",
+        "preview": "Hi Midland \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. ..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.741328",
+        "channel": "whatsapp",
+        "preview": "Hi Midland \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a ..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "high",
+    "lastContacted": "2026-04-25T14:06:03.741327"
+  },
+  {
+    "id": "017",
+    "businessName": "Blue Flame Heating",
+    "location": "Birmingham, West Midlands",
+    "website": null,
+    "specialisation": "Boiler Specialist",
+    "employees": "5-10",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.292183",
+        "channel": "whatsapp",
+        "preview": "Hi Blue \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help heatin..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295522",
+        "channel": "whatsapp",
+        "preview": "Hi Blue \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message. We ..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.741376",
+        "channel": "whatsapp",
+        "preview": "Hi Blue \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a loc..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "medium",
+    "lastContacted": "2026-04-25T14:06:03.741375"
+  },
+  {
+    "id": "018",
+    "businessName": "TradeFix Heating & Plumbing",
+    "location": "Wolverhampton, West Midlands",
+    "website": null,
+    "specialisation": "Contractor Services",
+    "employees": "5-10",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.292217",
+        "channel": "whatsapp",
+        "preview": "Hi TradeFix \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help he..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295571",
+        "channel": "whatsapp",
+        "preview": "Hi TradeFix \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message...."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.741416",
+        "channel": "whatsapp",
+        "preview": "Hi TradeFix \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "medium",
+    "lastContacted": "2026-04-25T14:06:03.741414"
+  },
+  {
+    "id": "019",
+    "businessName": "HeatSure Engineering",
+    "location": "Walsall, West Midlands",
+    "website": null,
+    "specialisation": "Commercial Heating & Maintenance",
+    "employees": "11-25",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.292256",
+        "channel": "whatsapp",
+        "preview": "Hi HeatSure \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help he..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295619",
+        "channel": "whatsapp",
+        "preview": "Hi HeatSure \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message...."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.741457",
+        "channel": "whatsapp",
+        "preview": "Hi HeatSure \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up a..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "high",
+    "lastContacted": "2026-04-25T14:06:03.741456"
+  },
+  {
+    "id": "020",
+    "businessName": "GreenTech Heating Solutions",
+    "location": "Birmingham, West Midlands",
+    "website": null,
+    "specialisation": "Renewable Heating Systems",
+    "employees": "5-10",
+    "status": "warm",
+    "sentCount": 3,
+    "messageLog": [
+      {
+        "step": "intro",
+        "sentAt": "2026-04-16T14:01:38.292291",
+        "channel": "whatsapp",
+        "preview": "Hi GreenTech \ud83d\udc4b\n\nI'm Larry from TradesReceptionist. We help h..."
+      },
+      {
+        "step": "followup",
+        "sentAt": "2026-04-19T14:07:14.295658",
+        "channel": "whatsapp",
+        "preview": "Hi GreenTech \u2014 Larry here \ud83d\udc4b\n\nJust following up on my message..."
+      },
+      {
+        "step": "case_study",
+        "sentAt": "2026-04-25T14:06:03.741510",
+        "channel": "whatsapp",
+        "preview": "Hi GreenTech \u2014 quick update from Larry \ud83e\udd16\n\nWe just signed up ..."
+      }
+    ],
+    "createdAt": "2026-04-16T00:00:00.000Z",
+    "priority": "high",
+    "lastContacted": "2026-04-25T14:06:03.741509"
+  }
+]

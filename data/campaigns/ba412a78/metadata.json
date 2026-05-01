@@ -1,0 +1,19 @@
+{
+  "campaign_id": "ba412a78",
+  "lead_id": "2bcef430-f12e-48e6-8f95-c20112cefdf0",
+  "company": "Winkworth West End",
+  "email": "westend@winkworth.co.uk",
+  "subject": "Quick question about Winkworth West End",
+  "trigger_used": "liking",
+  "status": "ready",
+  "created_at": "2026-04-27T22:10:46.861107",
+  "sent_day1": true,
+  "sent_day3": true,
+  "sent_day7": false,
+  "sent_day14": false,
+  "replied": false,
+  "bounced": false,
+  "sent_day1_at": "2026-04-27T22:24:42.021730",
+  "last_sent": "day3",
+  "sent_day3_at": "2026-05-01T07:06:37.434223"
+}

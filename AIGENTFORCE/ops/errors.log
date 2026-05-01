@@ -1,0 +1,17 @@
+# AIGENTFORCE Operations — Error Log
+
+## Usage
+Log all script failures, API errors, and operational issues here.
+Format: `[YYYY-MM-DD HH:MM]` — Error description — Resolution
+
+## Errors
+
+```
+[2026-04-28 12:00] larry_follow_up.py — No follow-ups due. Larry is resting. — ✅ OK
+```
+
+## Bounced Contacts
+
+| Date | Lead | Email | Marked By |
+|------|------|-------|-----------|
+| — | — | — | — |

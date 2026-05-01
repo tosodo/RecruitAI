@@ -1,0 +1,19 @@
+{
+  "campaign_id": "dcf4a8e0",
+  "lead_id": "15cf7d0b-0da3-4c09-9613-6a5ff7f55901",
+  "company": "Dexters Tower Bridge",
+  "email": "info@dexters.co.uk",
+  "subject": "Quick question about Dexters Tower Bridge",
+  "trigger_used": "liking",
+  "status": "ready",
+  "created_at": "2026-04-27T22:10:46.854968",
+  "sent_day1": true,
+  "sent_day3": true,
+  "sent_day7": false,
+  "sent_day14": false,
+  "replied": false,
+  "bounced": false,
+  "sent_day1_at": "2026-04-27T22:25:23.336768",
+  "last_sent": "day3",
+  "sent_day3_at": "2026-05-01T07:05:40.034862"
+}

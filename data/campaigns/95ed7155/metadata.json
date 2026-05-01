@@ -1,0 +1,19 @@
+{
+  "campaign_id": "95ed7155",
+  "lead_id": "6c663248-637c-488b-bcdb-1b98da840924",
+  "company": "Circa London Southwark",
+  "email": "info@circalondon.co.uk",
+  "subject": "Quick question about Circa London Southwark",
+  "trigger_used": "liking",
+  "status": "ready",
+  "created_at": "2026-04-27T22:10:46.856688",
+  "sent_day1": true,
+  "sent_day3": true,
+  "sent_day7": false,
+  "sent_day14": false,
+  "replied": false,
+  "bounced": false,
+  "sent_day1_at": "2026-04-27T22:24:17.521866",
+  "last_sent": "day3",
+  "sent_day3_at": "2026-05-01T07:05:50.062884"
+}

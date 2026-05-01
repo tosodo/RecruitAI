@@ -1,0 +1,20 @@
+{
+  "audits": [
+    {
+      "id": "lead_1777340028527",
+      "name": "Test Client",
+      "email": "test@example.com",
+      "company": "Test Business Ltd",
+      "source": "audit_form",
+      "score": 28,
+      "tier": "C",
+      "createdAt": "2026-04-28T01:33:48.527Z",
+      "opportunities": [
+        "AI chatbot for your website \u2014 24/7 lead capture while you sleep"
+      ],
+      "iris_processed": true,
+      "iris_processed_at": "2026-04-29T03:13:51.107544",
+      "email_sent": true
+    }
+  ]
+}

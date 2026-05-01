@@ -1,0 +1,19 @@
+{
+  "campaign_id": "14b1ed78",
+  "lead_id": "8e54cb63-22f1-49e4-8bf7-5d91a4a88261",
+  "company": "Hudsons Property",
+  "email": "info@hudsonsproperty.co.uk",
+  "subject": "Quick question about Hudsons Property",
+  "trigger_used": "liking",
+  "status": "ready",
+  "created_at": "2026-04-27T22:10:46.855951",
+  "sent_day1": true,
+  "sent_day3": true,
+  "sent_day7": false,
+  "sent_day14": false,
+  "replied": false,
+  "bounced": false,
+  "sent_day1_at": "2026-04-27T22:11:20.590258",
+  "last_sent": "day3",
+  "sent_day3_at": "2026-05-01T07:04:13.074122"
+}

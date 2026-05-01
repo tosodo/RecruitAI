@@ -1,0 +1,19 @@
+{
+  "campaign_id": "1f5e48a8",
+  "lead_id": "15ea4377-e5e0-42d5-829c-54e7702ab3d4",
+  "company": "Hyde Park Estate Agents",
+  "email": "info@hydeparkestate.co.uk",
+  "subject": "Quick question about Hyde Park Estate Agents",
+  "trigger_used": "liking",
+  "status": "ready",
+  "created_at": "2026-04-27T22:10:46.858874",
+  "sent_day1": true,
+  "sent_day3": true,
+  "sent_day7": false,
+  "sent_day14": false,
+  "replied": false,
+  "bounced": false,
+  "sent_day1_at": "2026-04-27T22:21:28.995847",
+  "last_sent": "day3",
+  "sent_day3_at": "2026-05-01T07:04:45.248494"
+}

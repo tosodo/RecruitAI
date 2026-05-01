@@ -1,0 +1,19 @@
+{
+  "campaign_id": "e01cb327",
+  "lead_id": "313d045d-796d-4f14-84c5-4ca91170ede8",
+  "company": "Dexters Fitzrovia",
+  "email": "info@dexters.co.uk",
+  "subject": "Quick question about Dexters Fitzrovia",
+  "trigger_used": "liking",
+  "status": "ready",
+  "created_at": "2026-04-27T22:10:46.854234",
+  "sent_day1": true,
+  "sent_day3": true,
+  "sent_day7": false,
+  "sent_day14": false,
+  "replied": false,
+  "bounced": false,
+  "sent_day1_at": "2026-04-27T22:25:44.458254",
+  "last_sent": "day3",
+  "sent_day3_at": "2026-05-01T07:07:47.950009"
+}

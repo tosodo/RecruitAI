@@ -1,0 +1,19 @@
+{
+  "campaign_id": "7b3d4f7e",
+  "lead_id": "test-001",
+  "company": "Barrett & Associates",
+  "email": "james@barrettproperties.co.uk",
+  "subject": "The instruction you didn't get \u2014 and why it went to your competitor",
+  "trigger_used": "authority",
+  "status": "ready",
+  "created_at": "2026-04-27T21:48:07.816286",
+  "sent_day1": true,
+  "sent_day3": true,
+  "sent_day7": false,
+  "sent_day14": false,
+  "replied": false,
+  "bounced": false,
+  "sent_day1_at": "2026-04-27T22:02:16.312034",
+  "last_sent": "day3",
+  "sent_day3_at": "2026-05-01T07:07:15.964652"
+}

@@ -1,0 +1,75 @@
+---
+url: https://www.youtube.com/watch?v=GkyaVQnIIbQ
+---
+
+# OpenClaw's New "Revenue Agents" Are INSANE
+
+*Leveling Up with Eric Siu*
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GkyaVQnIIbQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Transcript
+
+[0:00](https://youtube.com/watch?v=GkyaVQnIIbQ&t=0s)
+
+There's this concept known as the world brain that many multi-billion dollar companies are now trying to deploy which means pretty soon you're going to have many companies around the world trying to deploy this exact concept. I'm going to tell you what it is and how you can go about doing it because literally we are doing it today at my company [music] single grain. So you have companies like block and Jack Dorsey founder of X now founder of block he talks about deploying this concept known as the world intelligence and then you have a companies known as RAM multi-billion dollar finance company for startups they have this idea of a world intelligence as well and we have one called single brain [music] so here's how the concept of a single brain works so this whole idea of having a world intelligence a unified intelligence so if you just take a look at this over here this is the single brain okay so this single brain you have all this data from within your company, okay? Could be your CRM, all your chats, all your analytics, your Google Docs, all these things they are feeding into this single brain over here. And then your entire team can query whatever data that they want throughout the single brain. So they can ask about how sales performing or what are the deals in our pipeline right now
+
+---
+
+[1:01](https://youtube.com/watch?v=GkyaVQnIIbQ&t=61s)
+
+that are stuck, what are the angles that we should approach outbound sales, for example, or who are the clients that seem like they need the most attention right now. They can ask about all this information. But that's not all. They can not only query that information, but they can also ask the AI for strategies around that. So based on all the patterns that you have seen with this customer, how have they been acting? What subjects have they been talking about? Maybe this is right for an upsell. From there, it can even craft the emails for you. Or it can even execute on work for you. So maybe it's saying, "Hey, maybe it looks like this client needs help with outbound sales." You could have your agent create the entire outbound campaign end to end. So it can create email infrastructure for you. It can buy the email domains. Okay? they'll figure out the sequences. So all this convoluted stuff that you previously would have taken, you know, three, four people or taken you weeks to do, you can now do that in an afternoon just by having [music] this concept known as the single brain. Okay, so the single brain concept, not only that, you have a fleet of agents that it's also powering to. So this fleet of agents, they are the ones that are doing the things. So you know, we have our agent called Alfred and then we have Arrow
+
+---
+
+[2:01](https://youtube.com/watch?v=GkyaVQnIIbQ&t=121s)
+
+here for sales, we have Oracle for SEO, Flash for Content Cyborg. I mean, look, this piece over here, by the way, this piece got 354,000 views. This was created by Flash over here, okay? And this this image over here was also created by AI. So, this stuff actually works. And this article alone, I'll tell you this much, this article alone drove a few multi-billion dollar companies to reach out to my company, Single Grain. Okay? And then they actually got interested in the single brain concept, which is this whole idea of a world brain, okay? This this unified intelligence. Now, what I will also say too with this concept, so you know, month one, when you're when you're trying to start this out, when you're trying to roll this out, it's going to be tough. There's going to be a lot of hallucinations. Things are going to break. You're going to have to reset the models. You're going to have to gateway restart a bunch of times. Month two, auto research, right? You're going to have things that are maybe you're starting to get some patterns. Maybe it's starting to work. Maybe you're starting to reuse some of these agents more and the fleet of agents is starting to move for you. Okay? Then month three, the flywheel starts to spin and then you're starting to see major lifts in terms of what you're doing. Okay? It's it's going to find 10x opportunities on the sales side. It's going to find 10x infrastructure opportunities. It's going
+
+---
+
+[3:02](https://youtube.com/watch?v=GkyaVQnIIbQ&t=182s)
+
+to find 10x content opportunities because it's learning to work with you better. And that's the beauty of this. This single brain compounds with you. It compounds with your organization cuz as your organization gets stronger, it gets stronger with you. It knows what you like. It knows what you don't like. And you have to make sure that you have the right plumbing for it in place because if you don't, then it's it's not going to compound, right? So the whole idea here is right, all these capabilities, all these SOPs are all documented for you. And you want to put these all into skills.mmd files. Okay, so they should all live within a skill.md. And I'll show you where you can store all this for memory just in a second and and how we're thinking about it. And then you put it all into this world model over here. So you have a company memory. Okay, so raw AI tools, raw skills, raw SOPs that you have, everything that you got here, feed it into the world brain. And then you have this intelligence layer. And this is where your team can query for information. Your agents can query for information. They can execute for you. And because you have this, guess what? your team not only moves two times faster, not five times faster, not 10 times faster, we're talking 100 times faster. Okay? And then you have surfaces where you have human interaction. So there's this concept right now known as
+
+---
+
+[4:02](https://youtube.com/watch?v=GkyaVQnIIbQ&t=242s)
+
+you want to have fat skills, thin harnesses. And this is not talking about body shaming anybody. It's more so, hey, if your skills are really detailed and your skills are really in-depth and your harness, which is your driver, okay, so like Claude Code could be your driver for example, like a harness, and your your harnesses are thin. Ultimately, what matters is how in-depth your skills are. So the better you are at one doing your job, but two also documenting what you do. So I highly recommend making a bunch of Loom videos or just dictating using whisper flow, just saying what you want to say and making them into skills, the more you store that stuff within your company, the stronger your company is going to get. And the more you do that for your clients, which is what we do for our clients in the single brain side, the stronger they're going to get. So this part's critical. This is Obsidian. And Obsidian is great at compiling a lot of the notes that you have. So you can see here we have all these notes over here. Okay, we have, you know, agent shared decisions, handoffs, knowledge, projects that we have over here. What have we done from a daily log standpoint? Okay, just to store what we're doing. Now, on my screen over here, this part is important if you want to have some semblance of a world brain that has good memory. Okay,
+
+---
+
+[5:03](https://youtube.com/watch?v=GkyaVQnIIbQ&t=303s)
+
+so if a brain doesn't have good memory, well, it's only as good as the memory, right? You kind of need to have both. And so, what I'm using is Obsidian. And Obsidian is great for creating markdown files of a lot of the skills that you have, a lot of documentation you have, a lot of decisions that you made or your agents have made. And so in this case, I can see a bunch of things here. I can see decisions that the agents have made. There's shared decisions. There's shared knowledge. There's handoffs. There's all these projects that we're working on. And this is a project right here on ManyHat integration in terms of how we want to go about creating new lead magnets where ManyHat can actually take a comment from Instagram and then pass them the right lead magnet. I believe that's what it is over here. We had like a a different case over here. So like I was going back and forth with it. But here's the problem. You work with these agents all the time. They forget what you're talking about. And you need something like this that's going to remember. And even when I work with my agents, I ask about how useful something like an Obsidian is. It says it's extremely useful. It's extremely high leverage because it's able to get the the information that you need a lot faster and it's able to get you quality information a lot faster based on things that you've actually have done versus hallucinating or taking a long time to get that information. So Obsidian is important. You can choose whatever you want to do. We just chose Obsidian
+
+---
+
+[6:04](https://youtube.com/watch?v=GkyaVQnIIbQ&t=364s)
+
+because one, it's great at making markdown files and agents love to read markdown files. So that is what we use. If you want to triple your pipeline, double your revenues without having to cut headcount, you have to check out the revenue agents from singlebrain. That's singlebrain.com. And within these agents, they'll chat with you, they'll do data polls for you, they'll strategize for you, they'll even handle outbound for you, they'll handle the sequences, they'll handle everything end to end. Seagullbrain.com and we'll see you over there. Okay, so back to this over here. So there are a few things that we need to talk about. So this is my just my current machine in in terms of how I'm setting this up. So you need to make sure that you have the right hardware, right? So we have a Mac Mini here. We have two DGX Sparks from Nvidia and we run it on local inference. This is what we run it on for, you know, my my agent fleet for example. This is what we run like our our single brain on. It just it's just run on that. And then when we do it for our clients, for example, it might be on a VPS or it might be on their infrastructure. Okay? So this is just how we're doing it right now. You don't have to necessarily buy this equipment. You can probably get it for a lot cheaper. And the thing is these local models, by the way, they're getting a lot better. Like Google's Gemma 4, Nvidia releasing it and then
+
+---
+
+[7:05](https://youtube.com/watch?v=GkyaVQnIIbQ&t=425s)
+
+compressing it four times, right? So, the cost savings are going to get better and better over time. You're going to have to figure out token optimization because chances are as token costs drop, you're actually going to need to spend a lot more and your team's going to end up spending a lot more. And that's going to be great because you are now getting a multiplefold of anybody's productivity, right? It's multiplying by by quite a bit. Anyway, all that to say is is we have this agent fleet over here. There's a CEO. There's different agents for different tasks. And then also we have personalized agents for team the team as well. So, that can all plug into the single brain. Everyone has their own. So they have maybe their own preferences, their own goals, right? So everyone has their own agents. And then we run that on Nemo Claw. So that way it's each agent is sandbox. So you know if one gets destroyed or one gets, you know, infected or something like that, it's not going to affect the other agents, right? Not many companies are doing this right now. If you're doing this right now, you are in the top 1% of the 1%. And I see companies talking about, but not many companies are doing it right now. So I would highly recommend that you go out there and you try this yourself, okay? And you know, you can use there there's a lot of different things that you can use. Now you have
+
+---
+
+[8:05](https://youtube.com/watch?v=GkyaVQnIIbQ&t=485s)
+
+Zapier SDK, you have Nemo Claw, you have a lot of these different tools that are becoming available to you that you can use. And so there's no excuse not to set this up. Now for us, yes, we have single brain where we do it for customers, right? We have these we have the whole idea is that we have these revenue agents that can talk to people. So let me just give you a preview of how this looks. This is this is like a single brain mock page that we have, right? So like imagine all these are just Slack chats. If you just read these over here, I'm going to read one of these and this is actually real. This is actually something that we applied to oursel. This one at the top left, you can see Alfred here ran the quarterly vendor and ops audit. So this is like a CFO situation. Okay. So it found three immediate savings, redundant CRM licenses, 12 unused seats, $43,000 per year, overlapping SEO tools, three tools doing the same job, 18 grand a year, and then underperforming ad campaigns as less than less than one one 438 grand a year. So total savings that you can get is 500 grand a year. Okay. So basically, we had Alfred do a CFO analysis and it saved I I kid you not 500 grand. It said you should be cutting costs in these areas and 3 days later I cut those costs
+
+---
+
+[9:06](https://youtube.com/watch?v=GkyaVQnIIbQ&t=546s)
+
+and we're in a nicer spot, right? Cuz then it'll give you a full audit attached. Uh want me to draft these cancellation emails and so he can do it for you, right? And if you want to give it the permission to send emails for you, you can. That's a whole another conversation. I wouldn't recommend that out the gate. But point is this is real money. This is realworld stuff that you can do with this. Okay. Then you have Oracle found a conversion signal in the product data. Free users who connect their analytics within 48 hours convert to paid at 34%. Versus 6% for users who don't. What are you going to do with that data? I'll tell you this, my team cannot do without single brain right now or any type of world intelligence. They say it's a 9 out of 10 in terms of usefulness. We've had interns onboard themselves without being prompted to do that. They just did it themselves and they said it was incredibly helpful. [music] We've had people on my team say that they feel like they're dependent on it now. They can't they can't do without it because it's so helpful, right? So I think this is a complete gamecher for any business for this year and beyond. Again, if you start doing this now, you're top 1% of the 1%. So if you enjoyed this video, go ahead and check out this next one somewhere over here on this secret AI marketing skills repo
+
+---
+
+[10:07](https://youtube.com/watch?v=GkyaVQnIIbQ&t=607s)
+
+that has 1,800 stars on it. And it actually includes that skill on how to save 500 grand. Check it out.

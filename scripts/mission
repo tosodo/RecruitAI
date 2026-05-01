@@ -1,0 +1,149 @@
+#!/usr/bin/env python3
+"""
+AIGENTFORCE — Mission Control Data Server
+Serves all dashboard data as JSON
+"""
+import json
+import os
+from pathlib import Path
+from datetime import datetime, timedelta
+from http.server import HTTPServer, BaseHTTPRequestHandler
+from urllib.parse import urlparse, parse_qs
+
+LEADS_FILE = "/home/workspace/data/leads.json"
+CAMPAIGNS_DIR = "/home/workspace/data/campaigns"
+AUDITS_FILE = "/home/workspace/data/audits.json"
+
+def load_json(path, default):
+    try:
+        with open(path) as f:
+            return json.load(f)
+    except:
+        return default
+
+def get_campaign_stats():
+    total = 0
+    sent = 0
+    pending_followup = 0
+    for cid_dir in Path(CAMPAIGNS_DIR).iterdir():
+        if not cid_dir.is_dir():
+            continue
+        total += 1
+        try:
+            with open(cid_dir / "metadata.json") as f:
+                meta = json.load(f)
+                if meta.get("sent_day1"):
+                    sent += 1
+                if meta.get("status") == "followup_needed":
+                    pending_followup += 1
+        except:
+            pass
+    return {"total": total, "sent": sent, "pending_followup": pending_followup}
+
+def get_lead_stats():
+    data = load_json(LEADS_FILE, {"leads": []})
+    leads = data.get("leads", [])
+    return {
+        "total": len(leads),
+        "new": len([l for l in leads if l.get("status") == "new"]),
+        "contacted": len([l for l in leads if l.get("status") == "contacted"]),
+        "won": len([l for l in leads if l.get("status") == "won"]),
+        "lost": len([l for l in leads if l.get("status") == "lost"]),
+        "recent": leads[-5:] if leads else []
+    }
+
+def get_upcoming_automations():
+    return [
+        {"time": "Today 2:00 PM", "agent": "Sasha", "event": "Afternoon digest"},
+        {"time": "Today 8:00 PM", "agent": "Sasha", "event": "Evening review"},
+        {"time": "Tomorrow 8:00 AM", "agent": "Alex", "event": "Morning brief"},
+        {"time": "Apr 30 8:00 AM", "agent": "Alex", "event": "Morning brief"},
+    ]
+
+def get_buffer_status():
+    return {
+        "connected": True,
+        "channels": ["LinkedIn"],
+        "queued": 1,
+        "last_post": "Apr 27 2026"
+    }
+
+class DashboardHandler(BaseHTTPRequestHandler):
+    def do_GET(self):
+        path = urlparse(self.path).path
+        
+        if path == "/api/mission-data":
+            stats = {
+                "leads": get_lead_stats(),
+                "campaigns": get_campaign_stats(),
+                "automations": get_upcoming_automations(),
+                "buffer": get_buffer_status(),
+                "timestamp": datetime.now().isoformat()
+            }
+            self.send_response(200)
+            self.send_header("Content-Type", "application/json")
+            self.end_headers()
+            self.wfile.write(json.dumps(stats, indent=2).encode())
+            return
+        
+        self.send_response(404)
+        self.end_headers()
+        self.wfile.write(b"Not found")
+
+PORT = 3098
+server = HTTPServer(("127.0.0.1", PORT), DashboardHandler)
+print(f"Mission Control data server running on port {PORT}")
+server.serve_forever()
+"""
+print("Starting mission control data server...")
+import subprocess
+import threading
+
+server_script = '''
+import json, os
+from pathlib import Path
+from datetime import datetime
+from http.server import HTTPServer, BaseHTTPRequestHandler
+
+LEADS = "/home/workspace/data/leads.json"
+CAMPAIGNS = "/home/workspace/data/campaigns"
+
+def load(p, d): 
+    try:
+        with open(p) as f: return json.load(f)
+    except: return d
+
+class H(BaseHTTPRequestHandler):
+    def do_GET(self):
+        if self.path == "/api/mission-data":
+            leads_data = load(LEADS, {"leads": []})
+            leads = leads_data.get("leads", [])
+            total = len(leads)
+            stats = {
+                "leads": {"total": total, "new": len([l for l in leads if l.get("status")=="new"])},
+                "campaigns": {"total": len(list(Path(CAMPAIGNS).iterdir()))},
+                "automations": [{"time":"Today 2pm","agent":"Sasha"},{"time":"Today 8pm","agent":"Sasha"},{"time":"Tomorrow 8am","agent":"Alex"}],
+                "buffer": {"connected": True, "queued": 1}
+            }
+            self.send_response(200)
+            self.send_header("Content-Type", "application/json")
+            self.end_headers()
+            self.wfile.write(json.dumps(stats).encode())
+        else:
+            self.send_response(404)
+            self.end_headers()
+
+HTTPServer(("127.0.0.1", 3098), H).serve_forever()
+'''
+
+with open("/tmp/mission_server.py", "w") as f:
+    f.write(server_script)
+
+import subprocess
+import time
+
+p = subprocess.Popen(["python3", "/tmp/mission_server.py"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+time.sleep(1)
+stdout, stderr = p.communicate(timeout=2)
+print("Server status:", "running" if p.poll() is None else "stopped")
+print(stdout.decode(), stderr.decode())

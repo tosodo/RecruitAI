@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1777571687386",
+    "name": "Test",
+    "phone": "+447000000000",
+    "bottleneck": "Emails",
+    "business": "Test Ltd",
+    "registeredAt": "2026-04-30T17:54:47.386Z"
+  },
+  {
+    "id": "1777572107545",
+    "name": "paul",
+    "phone": "07947143912",
+    "bottleneck": "Following up with leads",
+    "business": "Estate",
+    "registeredAt": "2026-04-30T18:01:47.545Z"
+  },
+  {
+    "id": "1777572464831",
+    "name": "Test User",
+    "phone": "+447000000000",
+    "bottleneck": "Following up with leads",
+    "business": "Test Ltd",
+    "registeredAt": "2026-04-30T18:07:44.831Z"
+  }
+]

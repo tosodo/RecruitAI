@@ -1,0 +1,19 @@
+{
+  "campaign_id": "6191cba9",
+  "lead_id": "78bf5e89-1d0a-4911-9243-91fa9069a3a0",
+  "company": "Dexters London Bridge",
+  "email": "info@dexters.co.uk",
+  "subject": "Quick question about Dexters London Bridge",
+  "trigger_used": "liking",
+  "status": "ready",
+  "created_at": "2026-04-27T22:10:46.852479",
+  "sent_day1": true,
+  "sent_day3": true,
+  "sent_day7": false,
+  "sent_day14": false,
+  "replied": false,
+  "bounced": false,
+  "sent_day1_at": "2026-04-27T22:22:39.257557",
+  "last_sent": "day3",
+  "sent_day3_at": "2026-05-01T07:06:07.179279"
+}
